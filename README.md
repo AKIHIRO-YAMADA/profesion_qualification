@@ -25,6 +25,7 @@
 資格詳細
 性格診断から自分が向いている職業や資格がわかる
 コメント機能
+お気に入り機能
 
 ### 機能一覧
 https://docs.google.com/spreadsheets/d/19Vn2GWrw3u7cH5I1XVkt8tH7GdiNJ50sl_2GrJzmSSo/edit#gid=0
