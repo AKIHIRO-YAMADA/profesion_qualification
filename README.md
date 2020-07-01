@@ -1,24 +1,32 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# 職業・資格紹介サイト
 
-Things you may want to cover:
+## サイト概要
+職業や資格などを紹介する。
+性格診断からその人に合った職業やオススメの資格などを紹介する。
 
-* Ruby version
+### サイトテーマ
+世の中にどういう仕事や資格があるか知る。
+自分の可能性を気付くこと。
 
-* System dependencies
+### テーマを選んだ理由
+自分がやりたいことがわからない人や、現状に満足していない若い人は多いと感じるので、自己分析を行うきっかけがあれば良いと思いテーマを選んだ。
 
-* Configuration
+### ターゲットユーザ
+10代から20代の自分の進路に迷っている人
+将来に不安を抱えてる人
+### 主な利用シーン
+これからの進路を迷っている時や、現在の進路に不安を抱えている時。
+## 設計書
+職業一覧表示
+職業詳細
+資格一覧表示
+資格詳細
+性格診断から自分が向いている職業や資格がわかる
+コメント機能
 
-* Database creation
+### 機能一覧
+https://docs.google.com/spreadsheets/d/19Vn2GWrw3u7cH5I1XVkt8tH7GdiNJ50sl_2GrJzmSSo/edit#gid=0
 
-* Database initialization
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
